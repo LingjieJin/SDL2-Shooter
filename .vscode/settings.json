@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "map": "cpp",
+        "xtree": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "initializer_list": "cpp",
+        "xhash": "cpp",
+        "xutility": "cpp",
+        "random": "cpp",
+        "xiosbase": "cpp"
+    }
+}
